@@ -111,7 +111,7 @@ console.log(filteredFruit);
 let newArray = [1,2,3,4];
 let even = newArray.filter(evenFunction);
 
-function evenFunction(num); {
+function evenFunction(num) {
     let evenNumber = num % 2 == 0;
     return evenNumber;
 }
