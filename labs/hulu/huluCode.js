@@ -30,11 +30,11 @@ const hulu = {
                     episodes: [
                         {
                             title: "Pilot",
-                            airDate: "09-25-2017",
+                            airDate: "2017-09-25",
                         },
                         {
                             title: "Rockets, Communists, and the Dewey Decimal System",
-                            airDate: "11-02-2017",
+                            airDate: "2017-11-02",
                         },
                     ]
                 },
@@ -44,11 +44,11 @@ const hulu = {
                     episodes: [
                         {
                             title: "A High Pitched Buzz and Training Wheels",
-                            airDate: "09-24-2018",
+                            airDate: "2018-09-24",
                         },
                         {
                             title: "A Rival Prodigy and Sir Isaac Neutron",
-                            airDate: "09-27-2018",
+                            airDate: "2018-09-27",
                         },
                     ]
                 },
