@@ -146,9 +146,9 @@ console.log(checkNames2);
 
 let items = [ 'a','b','c','d'];
 
-for(let i = 0; i < items.length; i++) {
-    console.log(items[i]);
-}
+// for(let i = 0; i < items.length; i++) {
+//     console.log(items[i]);
+// }
 
 items.forEach(item => console.log("For Each", item));
 
